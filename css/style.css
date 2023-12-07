@@ -1,0 +1,61 @@
+title{
+    color: darkslateblue;
+}
+header{
+    size: 30px;
+    height: 90px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkslateblue;
+    color: white;
+}
+
+main {
+    padding-top: 30px;
+    text-align: center;
+    break-after: always;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+a {
+    color: blueviolet;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+table {
+    text-align: left;
+}
+
+#facts-section {
+    text-align: center;
+    background-color: white;
+    color: darkslateblue;
+    border: 3px solid black;
+    break-after: always;
+}
+
+#quotes-section {
+    text-align: center;
+    background-color: white;
+    color: darkslateblue;
+    border: 3px solid black;
+}
+
+#links-section {
+    text-align: center;
+    background-color: white;
+    color: darkslateblue;
+    border: 3px solid black;
+}
+
